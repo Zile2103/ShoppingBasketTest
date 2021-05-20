@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ConsoleClient/1.0.0": {
+        "dependencies": {
+          "ShoppingBasket": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleClient.dll": {}
+        }
+      },
+      "ShoppingBasket/1.0.0": {
+        "runtime": {
+          "ShoppingBasket.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleClient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ShoppingBasket/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
