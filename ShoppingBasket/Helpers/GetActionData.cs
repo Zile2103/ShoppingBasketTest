@@ -144,10 +144,10 @@ namespace ShoppingBasket.Helpers
             {
                 milkFullPrice = numberOfMilk;
             }
-            //error
+            
             if (numberOfButter >= 2)
             {
-                if (numberOfBred > maxNumberBredActio)
+                if (numberOfBred >= maxNumberBredActio)
                 {
                     bredActionNumber = maxNumberBredActio;
                 }
