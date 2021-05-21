@@ -1,0 +1,11 @@
+ShoppingBasket
+
+Project se sastoji od tri solutio-a. 
+*Prvi je Class Library ShoppingBasket koji sadrzi kompletnu logiku.
+-Interface sadrzi jedan interfejs koji nasledjuje klasa WorkWithBasket, u koju su smestene glavne funkcije.
+-Helpers sadrzi jednu helper klasu
+-Model clase koje prezentuju modele
+
+*Drugi je Console Core aplikacija ConsoleClient, koja ima referencu na ShoppingBasket i sluzi za unos i prikaz korpe.
+
+*Treca je xUnit Test Basket koja takodje ima referencu na ShoppingBasket i testira dve metode.
