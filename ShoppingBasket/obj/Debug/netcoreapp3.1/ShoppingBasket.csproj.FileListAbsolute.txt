@@ -1,9 +1,0 @@
-C:\Users\zarsenov\source\repos\ShoppingBasketTest\ShoppingBasket\obj\Debug\netcoreapp3.1\ShoppingBasket.csprojAssemblyReference.cache
-C:\Users\zarsenov\source\repos\ShoppingBasketTest\ShoppingBasket\obj\Debug\netcoreapp3.1\ShoppingBasket.AssemblyInfoInputs.cache
-C:\Users\zarsenov\source\repos\ShoppingBasketTest\ShoppingBasket\obj\Debug\netcoreapp3.1\ShoppingBasket.AssemblyInfo.cs
-C:\Users\zarsenov\source\repos\ShoppingBasketTest\ShoppingBasket\obj\Debug\netcoreapp3.1\ShoppingBasket.csproj.CoreCompileInputs.cache
-C:\Users\zarsenov\source\repos\ShoppingBasketTest\ShoppingBasket\bin\Debug\netcoreapp3.1\ShoppingBasket.deps.json
-C:\Users\zarsenov\source\repos\ShoppingBasketTest\ShoppingBasket\bin\Debug\netcoreapp3.1\ShoppingBasket.dll
-C:\Users\zarsenov\source\repos\ShoppingBasketTest\ShoppingBasket\bin\Debug\netcoreapp3.1\ShoppingBasket.pdb
-C:\Users\zarsenov\source\repos\ShoppingBasketTest\ShoppingBasket\obj\Debug\netcoreapp3.1\ShoppingBasket.dll
-C:\Users\zarsenov\source\repos\ShoppingBasketTest\ShoppingBasket\obj\Debug\netcoreapp3.1\ShoppingBasket.pdb
